@@ -36,6 +36,7 @@ public class LinkedListImpl {
 			System.out.println(curr.head.data);
 			curr.head = curr.head.next;
 		}
+		System.out.println("done");
 
 	}
 
