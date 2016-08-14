@@ -27,6 +27,7 @@ public class BinarySearch {
 		BinarySearch search = new BinarySearch();
 		System.out.println(search.binarySearch(arr, 0, arr.length - 1, searchElement));
 		System.out.println("Done");
+		System.out.println("Updating local baseline 2");
 	}
 
 }
