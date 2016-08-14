@@ -26,6 +26,7 @@ public class BinarySearch {
 		int searchElement = 10;
 		BinarySearch search = new BinarySearch();
 		System.out.println(search.binarySearch(arr, 0, arr.length - 1, searchElement));
+		System.out.println("Done");
 	}
 
 }
